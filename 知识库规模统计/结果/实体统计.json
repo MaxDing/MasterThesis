@@ -1,0 +1,114 @@
+{
+    "total": 47856,
+    "type_num": 27,
+    "type_count": {
+        "关系": {
+            "count": 26,
+            "percent": 0.05
+        },
+        "数据": {
+            "count": 621,
+            "percent": 1.3
+        },
+        "生理概念": {
+            "count": 2577,
+            "percent": 5.38
+        },
+        "嵌套实体": {
+            "count": 24047,
+            "percent": 50.25
+        },
+        "事件": {
+            "count": 492,
+            "percent": 1.03
+        },
+        "时间": {
+            "count": 259,
+            "percent": 0.54
+        },
+        "症状": {
+            "count": 9976,
+            "percent": 20.85
+        },
+        "疾病": {
+            "count": 3317,
+            "percent": 6.93
+        },
+        "修饰语": {
+            "count": 1460,
+            "percent": 3.05
+        },
+        "否定词": {
+            "count": 58,
+            "percent": 0.12
+        },
+        "病理概念": {
+            "count": 335,
+            "percent": 0.7
+        },
+        "部位": {
+            "count": 1674,
+            "percent": 3.5
+        },
+        "频率修饰语": {
+            "count": 18,
+            "percent": 0.04
+        },
+        "检查": {
+            "count": 870,
+            "percent": 1.82
+        },
+        "化学物质": {
+            "count": 934,
+            "percent": 1.95
+        },
+        "程度修饰语": {
+            "count": 110,
+            "percent": 0.23
+        },
+        "性质修饰语": {
+            "count": 295,
+            "percent": 0.62
+        },
+        "状态修饰语": {
+            "count": 51,
+            "percent": 0.11
+        },
+        "病史": {
+            "count": 327,
+            "percent": 0.68
+        },
+        "人群分类": {
+            "count": 158,
+            "percent": 0.33
+        },
+        "年龄": {
+            "count": 23,
+            "percent": 0.05
+        },
+        "方位修饰语": {
+            "count": 17,
+            "percent": 0.04
+        },
+        "数量修饰语": {
+            "count": 11,
+            "percent": 0.02
+        },
+        "颜色": {
+            "count": 62,
+            "percent": 0.13
+        },
+        "生物": {
+            "count": 99,
+            "percent": 0.21
+        },
+        "食品": {
+            "count": 21,
+            "percent": 0.04
+        },
+        "其他": {
+            "count": 18,
+            "percent": 0.04
+        }
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "total": 137660,
+    "type_num": 21,
+    "type_count": {
+        ">": {
+            "count": 204,
+            "percent": 0.15
+        },
+        "<": {
+            "count": 152,
+            "percent": 0.11
+        },
+        "修饰限定": {
+            "count": 10350,
+            "percent": 7.52
+        },
+        "predicate": {
+            "count": 34487,
+            "percent": 25.05
+        },
+        "subject": {
+            "count": 34562,
+            "percent": 25.11
+        },
+        "object": {
+            "count": 34341,
+            "percent": 24.95
+        },
+        "与": {
+            "count": 2895,
+            "percent": 2.1
+        },
+        "条件为": {
+            "count": 669,
+            "percent": 0.49
+        },
+        "导致": {
+            "count": 6379,
+            "percent": 4.63
+        },
+        "或": {
+            "count": 9581,
+            "percent": 6.96
+        },
+        "作用于": {
+            "count": 291,
+            "percent": 0.21
+        },
+        "是一种": {
+            "count": 1145,
+            "percent": 0.83
+        },
+        "同义词": {
+            "count": 683,
+            "percent": 0.5
+        },
+        "然后": {
+            "count": 81,
+            "percent": 0.06
+        },
+        "表现为": {
+            "count": 168,
+            "percent": 0.12
+        },
+        "执行检查": {
+            "count": 657,
+            "percent": 0.48
+        },
+        "调查病史": {
+            "count": 163,
+            "percent": 0.12
+        },
+        "并发症": {
+            "count": 201,
+            "percent": 0.15
+        },
+        "检查发现": {
+            "count": 624,
+            "percent": 0.45
+        },
+        "转变为": {
+            "count": 15,
+            "percent": 0.01
+        },
+        "比例为": {
+            "count": 12,
+            "percent": 0.01
+        }
+    }
+}
